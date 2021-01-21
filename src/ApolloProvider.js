@@ -7,7 +7,7 @@ import { ApolloProvider } from '@apollo/react-hooks'
 import { setContext } from 'apollo-link-context'
 
 const httpLink = createHttpLink({
-    uri: 'https://adoring-ritchie-223f9e.netlify.app'
+    uri: 'https://agile-sierra-50011.herokuapp.com'
 })
 
 
